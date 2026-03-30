@@ -1,7 +1,7 @@
 # 🏨 TripAdda - Luxury Hotel Booking Platform
 
 🔗 Live Demo
-  https://tripadda.vercel.app
+  https://trip-adda.vercel.app/
 
 TripAdda is a premium, full-stack hotel booking platform designed for discerning travelers. It features a bespoke "Midnight Luxury" dark-mode UI with sleek glassmorphism effects, offering a seamless experience for both guests booking luxury stays and hotel owners managing their properties.
 
